@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/jeanSagaz/multithreading/internal/application/dto"
-	"github.com/jeanSagaz/multithreading/internal/application/services"
+	"github.com/jeanSagaz/fc-multithreading/internal/application/dto"
+	"github.com/jeanSagaz/fc-multithreading/internal/application/services"
 )
 
 func main() {

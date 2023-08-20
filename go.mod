@@ -1,3 +1,3 @@
-module github.com/jeanSagaz/multithreading
+module github.com/jeanSagaz/fc-multithreading
 
 go 1.20

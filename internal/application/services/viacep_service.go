@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/jeanSagaz/multithreading/internal/application/dto"
+	"github.com/jeanSagaz/fc-multithreading/internal/application/dto"
 )
 
 func GetViaCepService(zipCode string) (*dto.ViaCepResponse, error) {
